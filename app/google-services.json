@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "25788516798",
+    "firebase_url": "https://flachchat-274fb.firebaseio.com",
+    "project_id": "flachchat-274fb",
+    "storage_bucket": "flachchat-274fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25788516798:android:167c9464578e290de3d1ef",
+        "android_client_info": {
+          "package_name": "com.aez.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25788516798-vba4d28ffln243dsl5jf6lo02l1do4eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPwOio69MlXjhULacQobwl_Hf0fBWzdSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25788516798-vba4d28ffln243dsl5jf6lo02l1do4eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
